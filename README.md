@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=544&lines=Hi+there+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=570&lines=Hi+there,+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
 
 ####   I try to write code 💻 and solve problems.
 ### Skills: ORACLE PLSQL, JAVA, SPRING BOOT, REACT, JS, TYPEJS, Node , Python, PROC, ETC.
