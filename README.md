@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=444&lines=Hi+there+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
 
-![profile-image](https://i.ibb.co/6Z8WqXd/Screenshot-153.png)
 
 ####   I try to write code 💻 and solve problems.
 
@@ -31,8 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Hobby: collect vingle record.
 - 📫 How to reach me: [songliexu@gmail.com](songliexu@gmail.com)
 - 😄 Pronouns: He/Him
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/nwosu-olumide-b7941318b/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/olumidenwosu) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/olumidayy) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'>](https://t.me/olumidayy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyostarsunson&show_icons=true)
 
