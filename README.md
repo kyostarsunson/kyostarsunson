@@ -18,10 +18,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=444&lines=Hi+there+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
 
-
 ####   I try to write code 💻 and solve problems.
-
-
 ### Skills: ORACLE PLSQL, JAVA, SPRING BOOT, REACT, JS, TYPEJS, Node , Python, PROC, ETC.
 
 - 🌱 I have 19 years IT experience in a telecom company,
@@ -30,8 +27,6 @@ Here are some ideas to get you started:
 - ⚡ Hobby: collect vingle record.
 - 📫 How to reach me: [songliexu@gmail.com](songliexu@gmail.com)
 - 😄 Pronouns: He/Him
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyostarsunson&show_icons=true)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kyostarsunson" />
