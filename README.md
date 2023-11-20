@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=444&lines=### Hi+there,👋+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0AD42A&random=false&width=444&lines=###+Hi+there+Welcome+to+Song+(Songlie)+Xu's+Github.)](https://git.io/typing-svg)
 
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
