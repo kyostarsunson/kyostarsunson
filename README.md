@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 I have 19 years IT experience in a telecom company,
 - 🔭 I'm currently studying at Southern Alberta Institute of Technology Software development major and will graduate at DEC 31 2023.
 - 👯 I’m looking to collaborate on any projects.
-- ⚡ Hobby: collect vingle record.
+- ⚡ Hobby: collect Phonograph record.
 - 📫 How to reach me: [songliexu@gmail.com](songliexu@gmail.com)
 - 😄 Pronouns: He/Him
 
